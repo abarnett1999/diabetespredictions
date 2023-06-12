@@ -1,21 +1,18 @@
-# install: 
-# 	pip install --upgrade pip &&\
-# 		pip install -r requirements.txt
-
-.PHONY: install run lint format test
 
 install:
 	pip install --upgrade pip &&\
 	pip install -r requirements.txt
 
-run:
-	uvicorn main:app --host 0.0.0.0 --port 8000
+#run:
+	
 
 lint:
-	flake8 --ignore=E501 .
+	pylint --disabaale=R, C hello.py
 
 format:
-	black .
+	black *.py
 
 test:
-	pytest
+	python -m pytest -vv test_hello.py 
+	
+all: install lint test 
