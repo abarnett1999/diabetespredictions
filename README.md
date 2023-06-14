@@ -1,4 +1,4 @@
-![Screenshot](diabetesimage.png)
+![Diabetes Image](diabetes-image.png)
 
 
 
