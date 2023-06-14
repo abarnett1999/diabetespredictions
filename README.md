@@ -1,6 +1,8 @@
 ![Diabetes Image](DiabetesImage.png)
 
 
+Did you know that diabetes affects how your body uses glucose? Glucose is a type of sugar and serves as the main source of energy for your body. After you eat, your body breaks down carbohydrates into glucose, which then enters your bloodstream. Your pancreas then releases insulin, a hormone that helps transport glucose from your bloodstream into cells for energy. 
+However, people with diabetes may experience problems with insulin production or the way their body uses insulin. This can result in increased levels of glucose in the bloodstream, which is referred to as high blood sugar or hyperglycemia.
 
 
 
