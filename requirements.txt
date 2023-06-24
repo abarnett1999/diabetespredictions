@@ -1,1 +1,5 @@
 
+sagemaker
+ipython
+sagemaker-automl-ensemble
+ipywidgets
