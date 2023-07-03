@@ -16,4 +16,4 @@ The Diabetes Prediction Dataset is a collection of medical and demographic recor
 
 Source: Diabetes prediction dataset | Kaggle
 
-[Diabetes_Predictions & Sagemaker](https://youtu.be/CMEEO23C8w0)
+[Diabetes_Predictions & Sagemaker Video](https://youtu.be/CMEEO23C8w0)
